@@ -21,5 +21,8 @@ while choice != 4:
         case 4:
             break
 print('Bye bye')
-
+"""
+very neat and organized! thought it could use some error handling/input validation. for example if the user enters a number instead of a string and vice versa, to stop the code from crashing. next time
+you can try to assume what the user would input in the worst case, as a precaution :D, overall still very good!
+"""
 
